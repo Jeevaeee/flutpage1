@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Icon(
-                Icons.language,
+                Icons.public,
                 color: Colors.white,
                 size: 44,
               ),
